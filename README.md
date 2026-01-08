@@ -16,4 +16,4 @@ Here are some of the technologies and programming languages I'm currently workin
 
 ---
 
-- ✉️ Email: `@.com`
+- ✉️ Email: `iaranares12@gmail.com`
